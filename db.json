@@ -1,8 +1,10 @@
 {
  "east": {
-   "name": "east"
+   "name": "east",
+   "number": 1
  },
  "west": {
-   "name": "west"
+   "name": "west",
+   "number": 2
  }
 }
