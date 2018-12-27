@@ -1,10 +1,118 @@
 {
- "east": {
-   "name": "east",
-   "number": 1
- },
- "west": {
-   "name": "west",
-   "number": 2
- }
+    "east": {
+      "cities": [
+        {"name": "New York",
+          "teams": [{
+            "name": "New York Knicks",
+            "about": ""
+          },
+           {
+            "name": "New York Giants",
+            "about": ""
+          },
+          {
+            "name": "New York Yankees",
+            "about": ""
+          },
+          {
+            "name": "New York Rangers",
+            "about": ""
+          }]
+        },
+        {"name": "Philadelphia",
+          "teams": [{
+            "name": "Philadelphia 76ers",
+            "about": ""
+          }, 
+          {
+            "name": "Philadelphia Eageles",
+            "about": ""
+          }, 
+          {
+            "name": "Philadelphia Phillies",
+            "about": ""
+          }, 
+          {
+            "name": "Philadelphia Flyers",
+            "about": ""
+          }]
+        },
+        {"name": "Chicago",
+          "teams": [{
+            "name": "Chicago Bulls",
+            "about": ""
+          }, 
+          {
+            "name": "Chicago Bears",
+            "about": ""
+          },
+          {
+            "name": "Chicago Cubs",
+            "about": ""
+          },
+          {
+            "name": "Chicago Blackhawks",
+            "about": ""
+          }]
+        }
+        ]
+    },
+    "west": {
+      "cities": [
+        {"name": "Dallas",
+          "teams": [{
+            "name": "Dallas Mavericks",
+            "about": ""
+          }, 
+          {
+            "name": "Dallas Cowboys",
+            "about": ""
+          }, 
+          {
+            "name": "Dallas Texas Rangers",
+            "about": ""
+          }, 
+          {
+            "name": "Dallas Stars",
+            "about": ""
+          }]
+        },
+        {"name": "San Francisco",
+          "teams": [{
+            "name": "Golden State Warriors",
+            "about": ""
+          }, 
+          {
+            "name": "San Francisco 49ers",
+            "about": ""
+          }, 
+          {
+            "name": "San Francisco Giants",
+            "about": ""
+          }, 
+          {
+            "name": "San Francisco Seals",
+            "about": ""
+          }]
+        },
+        {"name": "Los Angeles",
+          "teams": [{
+            "name": "Los Angeles Lakers",
+            "about": ""
+          }, 
+          {
+            "name": "Los Angeles Chargers",
+            "about": ""
+          }, 
+          {
+            "name": "Los Angeles Angels",
+            "about": ""
+          }, 
+          {
+            "name": "Los Angeles Kings",
+            "about": ""
+          }]
+        }
+        ]
+    }
 }
