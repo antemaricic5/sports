@@ -1,10 +1,5 @@
 {
-"east":[
-{"name":"Mavs"},
-{"name":"Cowboys"}
-],
-"west":[
-{"name":"aaa"},
-{"name":"bbbbb"}
-]
+"east": {
+"name":"ist"
+}
 }
