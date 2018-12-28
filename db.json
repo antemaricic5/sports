@@ -56,11 +56,7 @@
             "name": "Dallas Cowboys",
             "about": ""
           }, 
-          {
-            "name": "Dallas Texas Rangers",
-            "about": ""
-          }, 
-          {
+           {
             "name": "Dallas Stars",
             "about": ""
           }]
@@ -75,10 +71,6 @@
             "about": ""
           }, 
           {
-            "name": "San Francisco Giants",
-            "about": ""
-          }, 
-          {
             "name": "San Francisco Seals",
             "about": ""
           }]
@@ -90,10 +82,6 @@
           }, 
           {
             "name": "Los Angeles Chargers",
-            "about": ""
-          }, 
-          {
-            "name": "Los Angeles Angels",
             "about": ""
           }, 
           {
