@@ -1,6 +1,4 @@
 {
-    "conferences": [
-        {
     "east": {
       "cities": [
         {"name": "New York",
@@ -93,6 +91,4 @@
         }
         ]
      }
-        }
-]
 }
